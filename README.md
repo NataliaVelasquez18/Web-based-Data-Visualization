@@ -1,2 +1,1 @@
-# Web_based-Data-Visualization
-Web based data visualization using Plotly
+# Biodiversity Dashboard

@@ -11,3 +11,8 @@ A company is trying to bring a new product to the market.  The target market for
 Here is the image of the website:
 
 <img src="https://github.com/NataliaVelasquez18/Web-based-Data-Visualization/blob/main/biodiversity_dashboard.png"/>
+
+
+## Sample Code
+
+

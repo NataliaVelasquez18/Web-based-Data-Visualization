@@ -1,7 +1,6 @@
 .jumbotron{
     background-repeat: no-repeat;
     background-size: 100%;
-    background-image: url("http://www.perinijournal.it/CmsData/PeriniJournal/PJL%2043/94-Pasteur/germs_or_bacteria-SITO.jpg");
 }
 body{
     background-color: whitesmoke;
@@ -11,6 +10,6 @@ body{
     margin-top: 1%;
 }
 header{
-    color: white;
+    color: darkgray;
     text-shadow: 3px 3px black;
 }
